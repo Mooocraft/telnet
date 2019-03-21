@@ -1,0 +1,12 @@
+{
+  "lockfileVersion": 1,
+  "name": "telnet",
+  "version": "1.0.0",
+  "description": "Node.js Telnet Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Osler",
+  "license": "ISC"
+}
